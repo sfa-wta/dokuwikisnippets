@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+| @#0084D1:<fc #FFFFFF>**Configuration**</fc> | @#0084D1:<fc #FFFFFF>**Default Value**</fc> | @#0084D1:<fc #FFFFFF>**Description**</fc> |
+| @#EEEEEE:**${1:appconf1}** | ${2:data2} | ${3:data3} |
+| @#EEEEEE:**${4:appconf4}** | ${5:data5} | ${6:data6} |
+| @#EEEEEE:**${7:appconf7}** | ${8:data8} | ${9:data9} |
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<scope>text.html.dokuwiki</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{:pm1:general:${1:<int_id>}_before.png|${2:$SELECTION}}}
+]]></content>
+	<tabTrigger>imgb</tabTrigger>
+	<scope>text.html.dokuwiki</scope>
+</snippet>

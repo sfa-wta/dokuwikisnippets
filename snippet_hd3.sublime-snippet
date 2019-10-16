@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+==== ${1:$SELECTION} ====
+]]></content>
+	<tabTrigger>hd3</tabTrigger>
+	<scope>text.html.dokuwiki</scope>
+</snippet>
