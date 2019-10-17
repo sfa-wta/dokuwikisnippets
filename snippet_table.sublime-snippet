@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-^ ${1:head0} ^ ${2:head1} ^ ${3:head2} ^
-| ${4:data} | ${5:data} | ${6:data} | 
-| ${7:data} | ${8:data} | ${9:data} | 
-| ${10:data} | ${11:data} | ${12:data} |
+| @#0084D1:<fc #FFFFFF>**Configuration**</fc> | @#0084D1:<fc #FFFFFF>**Default Value**</fc> | @#0084D1:<fc #FFFFFF>**Description**</fc> |
+| @#EEEEEE:**${1:appconf1}** | ${2:data2} | ${3:data3} |
+| @#EEEEEE:**${4:appconf4}** | ${5:data5} | ${6:data6} |
+| @#EEEEEE:**${7:appconf7}** | ${8:data8} | ${9:data9} |
 ]]></content>
-	<tabTrigger>tab</tabTrigger>
-	<scope>text.dokuwiki</scope>
+	<tabTrigger>table</tabTrigger>
+	<scope>text.html.dokuwiki</scope>
 </snippet>

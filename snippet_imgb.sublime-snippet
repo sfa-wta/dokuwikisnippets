@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-[[${1:link target}|${2:$SELECTION}]]
+{{:pm1:general:${1:<int_id>}_before.png|${2:$SELECTION}}}
 ]]></content>
-	<tabTrigger>lnk</tabTrigger>
+	<tabTrigger>imgb</tabTrigger>
 	<scope>text.html.dokuwiki</scope>
 </snippet>

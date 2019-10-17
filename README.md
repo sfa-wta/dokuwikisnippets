@@ -1,2 +1,1 @@
-# dokuwikisnippets
-dokuwikisnippets
+# dokuwiki_snippets

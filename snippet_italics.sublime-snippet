@@ -2,6 +2,6 @@
 	<content><![CDATA[
 //${1:$SELECTION}//
 ]]></content>
-	<tabTrigger>@i</tabTrigger>
+	<tabTrigger>itl</tabTrigger>
 	<scope>text.dokuwiki</scope>
 </snippet>
