@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<BOOKMARK:${1:<anchor_name>}>
+]]></content>
+	<tabTrigger>book</tabTrigger>
+	<scope>text.dokuwiki</scope>
+</snippet>
